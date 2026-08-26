@@ -9,7 +9,7 @@ Landing Page Institucional e de Alta Conversão em React 19 + TypeScript + Vite 
 * **Endereço:** Rua Carlos Gomes, 463 • Centro, Morro Agudo/SP - CEP 14640-000
 * **WhatsApp:** (16) 3851-5050 (`5516990515050`)
 * **Instagram:** https://www.instagram.com/odontocompany_morroagudo/
-* **Facebook:** https://web.facebook.com/odontocompany_morroagudo/
+* **Facebook:** https://www.facebook.com/odontocompany_morroagudo/
 
 ---
 

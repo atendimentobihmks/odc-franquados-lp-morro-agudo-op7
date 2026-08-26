@@ -53,7 +53,7 @@ export const UNITS_DATA: Record<string, UnitData> = {
     whatsapp: '5516990515050',
     whatsappMessage: 'Olá! Gostaria de agendar uma consulta de avaliação na OdontoCompany Morro Agudo.',
     instagramUrl: 'https://www.instagram.com/odontocompany_morroagudo/',
-    facebookUrl: 'https://web.facebook.com/odontocompany_morroagudo/',
+    facebookUrl: 'https://www.facebook.com/odontocompanymorroagudosp/',
     croCl: 'CRO-SP 115.568',
     address: {
       street: 'Rua Carlos Gomes',
